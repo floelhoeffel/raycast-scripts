@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Prisma Scratchpad
+# @raycast.title Scratchpad
 # @raycast.packageName Bookmarks
 # @raycast.mode silent
 

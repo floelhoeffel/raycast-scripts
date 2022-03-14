@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Prisma Bugs Board
+# @raycast.title Bugs Board
 # @raycast.packageName Bookmarks
 # @raycast.mode silent
 

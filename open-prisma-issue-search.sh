@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Github issue search
+# @raycast.title Issue search
 # @raycast.packageName Bookmarks
 # @raycast.mode silent
 
